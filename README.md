@@ -1,2 +1,2 @@
 # Codle
-Members: Ashrit M, Jonathin N, Eric Y
+Members: Ashrit Madamraju, Jonathin Nguyen, Eric Yeh
